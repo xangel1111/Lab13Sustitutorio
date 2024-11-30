@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LaboratorioCalificadoSustitutorio</string>
+
+    <string name="mainTitle">Posts</string>
+
+    <string name="userId">User ID: </string>
+    <string name="postId">Post ID: </string>
+    <string name="body">Content: </string>
+    <string name="title">Title: </string>
+</resources>
